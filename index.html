@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador de Texto</title>
+    <link rel="stylesheet" href="./styles/style.css">
+    <link rel="shortcut icon" href="./img/lupa.png" type="img/logo">
+    
+</head>
+<body>
+      
+    <header>
+      <div class="cabecalho">
+        <img class="logo" src="./img/lupa.png" alt="logo alura" width="115" height="105">
+        <h1 class="apresentacao__conteudo__titulo">Bem Vindo ao <strong 
+          class="titulo-destaque">Codificador de Texto</strong></h1>
+      </div>
+        </header>
+  
+      <div class="conteudo-texto">
+         <div class="input">
+        <textarea id="input-texto" rows="10" cols="50" placeholder="Digite seu texto aquí..."></textarea>
+      </div>
+
+        <div class="conteudo-alerta">
+        <img src="./img/exclamation.png" alt="sinal-exclamacao" width="15" height="15"> 
+        <p> Apenas letras minúsculas e sem acento.</p>
+       </div>
+   
+     <div class="botoes"> 
+        <button class="btn_criptografar" type="button" onclick="criptografar()">Criptografar</button>
+        <button class="btn_descriptografar" type="button" onclick="descriptografar()">Descriptografar</button>
+     </div>
+      </div>  
+    <div id="output"> 
+            <img id="imagem-esquerda" src="./img/boneco.jpg" alt="imagem-boneco">
+              <h2>Nenhuma mensagem encontrada</h2>
+                  <p id="mensagemFinal" class="mensagemFinal">Digite um texto que você deseja criptografar ou descriptografar.</p>
+             </div>
+
+    <footer class="rodape">
+        <div class="icons">
+            <a href="https://instagram.com/naymartinsdesign">
+              <img src="./img/instagram.png">
+            </a>
+            <a  href="https://github.com/Nay-MM" width="20" height="10">
+                <img src="./img/github.png">
+            </a>
+            <a href="https://linkedin.com/in/nayana-martins-95b62b292">
+                <img src="./img/linkedin.png">
+            </a>
+        </div>
+    <p>Desenvolvido por Nayana Martins/2024</p>
+    </footer>
+
+    <script src="java.js" defer></script> 
+</body>
+
+</html>
