@@ -1,5 +1,5 @@
 <h1>Desafio do projeto aluno da Alura| Oracle (One Next Education)</h1>
-<h2>Sobre o Codificador</h2>
+<h2>Sobre</h2>
 <p>O  projeto possibilita através do conhecimento que foi adquirido no decorrer dos cursos, colocar em prática tudo que aprendeu.</p>
 
 <h2>Descrição</h2>
