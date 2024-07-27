@@ -1,9 +1,9 @@
 <h1>Desafio do projeto aluno da Alura| Oracle (One Next Education)</h1>
-<h2>Sobre</h2>
-<p>Busca o projeto trazer todo o conhecimento que foi adquirido no decorrer do curso, possibilitando colocar em prática tudo que aprendeu.</p>
+<h2>Sobre o Codificador</h2>
+<p>O  projeto possibilita através do conhecimento que foi adquirido no decorrer dos cursos, colocar em prática tudo que aprendeu.</p>
 
 <h2>Descrição</h2>
-<p>Tem como objetivo trabalhar com aplicação de criptogafar textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.</p>
+<p>Tem como objetivo trabalhar com aplicação de criptografar textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.</p>
 A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções.
 O resultado deve ser exibido na tela.
 
