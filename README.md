@@ -18,7 +18,7 @@ O resultado deve ser exibido na tela.
 <li>Deve funcionar apenas com letras minúsculas.</li>
 <li>Não devem ser utilizados letras com acentos nem caracteres especiais</li>
 <li>Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.</li>
-Por exemplo: "gato" => "gaitober"gaitober" => "gato"
+    Por exemplo: "gato" => "gaitober"gaitober" => "gato"
 
 
 <h2>Extras:</h2>
