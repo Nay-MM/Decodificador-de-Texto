@@ -1,6 +1,6 @@
-<h1>Desafio do projeto aluno da Alura</h1>
+<h1>Desafio do projeto aluno da Alura| Oracle (One Next Education)</h1>
 <h2>Sobre</h2>
-<p>Busca trazer todo o conhecimento que foi adquirido no decorrer do curso, possibilitando colocar em prática.</p>
+<p>Busca o projeto trazer todo o conhecimento que foi adquirido no decorrer do curso, possibilitando colocar em prática tudo que aprendeu.</p>
 
 <h2>Descrição</h2>
 <p>Tem como objetivo trabalhar com aplicação de criptogafar textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.</p>
@@ -31,7 +31,7 @@ Por exemplo: "gato" => "gaitober"gaitober" => "gato"
 <h3>Descubra qual é a mensagem secreta!</h3>
 "pairaibenterns poberr enterncairair enterssenter dentersaifimesober enter tenterr fimesnailimeszaidober enterlenter coberm sufatcenterssober!"
 
-�� Tecnologias
+<h2>�� Tecnologias</h2>
 <div>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
