@@ -1,7 +1,10 @@
 <h1>Decodificador de Texto - Alura Challenges Oracle ONE</h1>
 <h2>Sobre</h2>
 <p>O  projeto possibilita através do conhecimento que foi adquirido no decorrer dos cursos, colocar em prática tudo que aprendeu.</p>
-<video><source src ="../img/video_decodificar.mp4" type="video/mp4">Vídeo</video>
+
+<video controls width="250"><source src ="../img/video_decodificar.mp4" type="video/mp4"/>Vídeo</video>
+
+
 <h2>Descrição</h2>
 <p>Tem como objetivo trabalhar com aplicação de criptografar textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.</p>
 A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções.
