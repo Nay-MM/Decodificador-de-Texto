@@ -3,7 +3,7 @@
 <p>O  projeto possibilita através do conhecimento que foi adquirido no decorrer dos cursos, colocar em prática tudo que aprendeu.</p>
 
 <h2>Vídeo do Projeto:</h2>
-<a href="/video/video_decodificar.mp4">Vídeo</a>
+ <a href="/video/video_decodificar.mp4">Vídeo</a>
 
 <h2>Descrição</h2>
 <p>Tem como objetivo trabalhar com aplicação de criptografar textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.</p>
@@ -21,7 +21,7 @@ O resultado deve ser exibido na tela.
 <li>Deve funcionar apenas com letras minúsculas.</li>
 <li>Não devem ser utilizados letras com acentos nem caracteres especiais</li>
 <li>Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.</li>
-     Por exemplo: "gato" => "gaitober"gaitober" => "gato"
+ Por exemplo: "gato" => "gaitober"gaitober" => "gato"
 
 
 <h2>Extras:</h2>
