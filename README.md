@@ -2,7 +2,8 @@
 <h2>Sobre</h2>
 <p>O  projeto possibilita através do conhecimento que foi adquirido no decorrer dos cursos, colocar em prática tudo que aprendeu.</p>
 
-<video controls width="250"><source src ="/img/video_decodificar.mp4" type="video/mp4"/>Vídeo
+<video controls width="250">
+<source src ="video_decodificar.mp4" type="video/mp4"/>Vídeo </video>
 
 
 <h2>Descrição</h2>
