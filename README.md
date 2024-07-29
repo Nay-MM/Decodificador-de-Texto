@@ -2,12 +2,8 @@
 <h2>Sobre</h2>
 <p>O  projeto possibilita através do conhecimento que foi adquirido no decorrer dos cursos, colocar em prática tudo que aprendeu.</p>
 
-
-<source src ="/video/video_decodificar.mp4" type="video/mp4">Vídeo
-<a href="/video/video_decodificar.mp4">MP4</a>
-
-
-
+<h2>Vídeo do Projeto:</h2>
+<a href="/video/video_decodificar.mp4">Vídeo</a>
 
 <h2>Descrição</h2>
 <p>Tem como objetivo trabalhar com aplicação de criptografar textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.</p>
