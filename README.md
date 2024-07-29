@@ -3,7 +3,7 @@
 <p>O  projeto possibilita através do conhecimento que foi adquirido no decorrer dos cursos, colocar em prática tudo que aprendeu.</p>
 
 <video>
-<source src ="../img/video_decodificar.mp4" type="video/mp4">Vídeo</video>
+<source src ="../video/video_decodificar.mp4" type="video/mp4">Vídeo</video>
 
 
 <h2>Descrição</h2>
