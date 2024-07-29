@@ -2,11 +2,11 @@
 <h2>Sobre</h2>
 <p>O  projeto possibilita através do conhecimento que foi adquirido no decorrer dos cursos, colocar em prática tudo que aprendeu.</p>
 
-<video>
+
 <source src ="/video/video_decodificar.mp4" type="video/mp4">Vídeo
 <a href="/video/video_decodificar.mp4">MP4</a>
-  video.
-</video>
+
+
 
 
 <h2>Descrição</h2>
